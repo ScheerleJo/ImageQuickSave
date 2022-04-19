@@ -1,0 +1,6 @@
+C:\Users\josia\Source\Repos\03 Projekte\quickSaveImage\bin\Debug\quickSaveImage.exe.config
+C:\Users\josia\Source\Repos\03 Projekte\quickSaveImage\bin\Debug\quickSaveImage.exe
+C:\Users\josia\Source\Repos\03 Projekte\quickSaveImage\bin\Debug\quickSaveImage.pdb
+C:\Users\josia\Source\Repos\03 Projekte\quickSaveImage\obj\Debug\quickSaveImage.csprojAssemblyReference.cache
+C:\Users\josia\Source\Repos\03 Projekte\quickSaveImage\obj\Debug\quickSaveImage.exe
+C:\Users\josia\Source\Repos\03 Projekte\quickSaveImage\obj\Debug\quickSaveImage.pdb
